@@ -18,6 +18,10 @@ header {
     padding: 10px 20px;
 }
 
+a {
+    text-decoration: none;
+}
+
 .logo {
     position: absolute;
     left: 50%;
